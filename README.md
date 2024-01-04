@@ -19,7 +19,7 @@ Understand how sales are distributed across different segments.
 Gain visibility into sales performance based on different payment modes.
 
 
-## Screenshot
+### Screenshot
 
 ![SS-](https://github.com/DataNomadX/Mega_store_sales_Dashboard/assets/154113751/a5ebd0a5-5273-4d76-ac2f-f1e0a68eae43)
 
